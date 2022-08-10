@@ -9,8 +9,8 @@ https://weather-app-starter.vercel.app
 Completo
 
 ## tecnologias.
-Feito com framework react e usando javascript, e tailwind nesse projeto.
+Feito com framework react, usando javascript e tailwind nesse projeto.
 
 
 ## Codigo para rodar:
-Codigo para dar start: 
+Codigo para dar start: npm start
